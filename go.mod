@@ -1,4 +1,4 @@
-module protos
+module github.com/rd7x6dnzx7-byte/protos
 
 go 1.25.4
 
